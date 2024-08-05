@@ -31,7 +31,7 @@ const Xizmatlar = () => {
         </div>
 
         {showModal && (
-          <div className="fixed inset-0 flex items-center justify-center z-50 bg-black bg-opacity-50">
+          <div className="fixed inset-0 flex items-center justify-center z-50 p-3 bg-black bg-opacity-50">
             <div className="bg-white rounded-lg p-8 shadow-lg ">
               <div className=" flex gap-3 items-center  justify-between mb-3">
                 <p className=" text-[30px]">Tariflar</p>
